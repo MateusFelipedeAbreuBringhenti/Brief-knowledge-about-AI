@@ -1,4 +1,5 @@
 # PT-BR Breve conhecimento sobre IA
+<<<<<<< HEAD
 ### Este é um breve tópico para testar e documentar os avanços no conhecimento sobre IA
 ### Este conhecimento esta disponivel de maneira gratuita em pt-br neste [link](https://www.deeplearningbook.com.br), conhecimento de muito valor e recomendado!
 ## Deep Learning Book
